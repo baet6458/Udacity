@@ -9,6 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="36sp"
         android:text="Happy Birthday (insert name here)!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -17,8 +18,11 @@
 
     <TextView
         android:text="From, \n Elijsha Baetiong"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"/>
     <ImageView
         android:src="@drawable/androidparty"
         android:layout_width="match_parent"

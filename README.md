@@ -11,9 +11,9 @@ The goal behind this course was to learn about the views,layouts and some other 
 Here were some of the lessons learned:
  
 - Learned about views
-  -TextViews
-  -ImageViews
-  -buttons
+  *TextViews
+  *ImageViews
+  *buttons
 - Learned about how to manipulate layouts
 - Made a birthday card app
  
